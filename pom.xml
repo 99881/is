@@ -10,10 +10,6 @@
   	<name>es</name>
   	<url>https://github.com/99881</url>
   </organization>
-  <modules>
-  	<module>parent</module>
-  </modules>
-  
   <build>
         <plugins>
             <plugin>
@@ -136,4 +132,7 @@
         </license>
     </licenses>
     
+    <modules>
+    	<module>is-parent</module>
+    </modules>
 </project>
